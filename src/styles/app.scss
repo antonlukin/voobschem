@@ -1,0 +1,47 @@
+// Setup default styles
+@import "config/*.scss";
+
+// Font variables
+$font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+$font-regular: 'Noto Serif', sans-serif;
+
+
+body {
+  display: block;
+
+  line-height: 1.375;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: $font-regular;
+
+  color: #222;
+  background-color: #fff;
+
+  -webkit-text-size-adjust: none;
+  -ms-text-size-adjust: 100%;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+  border-bottom: 1px solid;
+  transition: filter .25s;
+
+  &:hover {
+    filter: brightness(120%);
+  }
+}
+
+strong {
+  font-weight: 700;
+}
+
+::selection {
+  background-color: rgba(dimgrey, 0.25);
+}
+
+// Import basics styles
+@import "basics/*.scss";
+
+// Import layout styles
+@import "layout/*.scss";
