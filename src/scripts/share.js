@@ -22,7 +22,7 @@
     var canonical = document.querySelector('link[rel="canonical"]');
 
     if (canonical && canonical.href) {
-      link = encodeURIComponent(canonical.href);
+      link = canonical.getAttribute('href');
     } else {
       link = encodeURIComponent(window.location.href.replace(window.location.hash, ''));
     }
