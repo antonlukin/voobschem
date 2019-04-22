@@ -2,7 +2,7 @@
   display: block;
 
   margin: 1rem 2.5rem;
-  font-size: 1rem;
+  font-size: 1.125rem;
 
   .list__rule {
     display: list-item;
@@ -24,7 +24,7 @@
 
   @media screen and (max-width: 767px) {
     margin: 1rem 2rem;
-    font-size: 0.9375rem;
+    font-size: 1rem;
   }
 
   @media screen and (max-width: 479px) {

@@ -7,16 +7,15 @@
   .header__title {
     display: block;
 
-    font-size: 1.75rem;
+    font-size: 1.825rem;
     line-height: 1.25;
 
     @media screen and (max-width: 767px) {
-      font-size: 1.625rem;
+      font-size: 1.5rem;
     }
 
     @media screen and (max-width: 479px) {
       font-size: 1.375rem;
-      line-height: 1.375;
     }
   }
 }
