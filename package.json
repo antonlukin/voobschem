@@ -1,6 +1,6 @@
 {
   "name": "voobschem",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": "Anton Lukin",
   "description": "voobschem.ru public repository",
   "main": "gulpfile.js",
@@ -16,10 +16,8 @@
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.7.0",
     "gulp-flatten": "^0.4.0",
-    "gulp-plumber": "^1.2.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-sass-glob": "^1.0.9",
-    "gulp-uglify": "^3.0.2"
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

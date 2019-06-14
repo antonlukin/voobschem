@@ -6,8 +6,10 @@
 
   .header__title {
     display: block;
+    width: 100%;
 
     font-size: 1.825rem;
+    font-weight: 400;
     line-height: 1.25;
 
     @media screen and (max-width: 767px) {

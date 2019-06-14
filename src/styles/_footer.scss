@@ -15,6 +15,10 @@
 
     font-family: $font-system;
     font-size: 0.75rem;
+
+    .footer__copy-link {
+      margin: 0;
+    }
   }
 
   .footer__share {
