@@ -1,7 +1,7 @@
 # voobschem.ru
 
 **Contributors:** Anton Lukin  
-**Version:** 2.0.0   
+**Version:** 2.1.0   
 **License:** MIT License  
 **License URI:** https://github.com/antonlukin/voobschem/blob/master/LICENSE  
 
