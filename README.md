@@ -8,12 +8,12 @@
 
 ## Description
 
-[voobschem.ru](https://voobschem.ru) public repository.   
+voobschem.github.io public repository.   
 See detailed description in Russian below.
 
 ## Installation 
 
-Just route your webserver to `/app/` directory.  
+Just route your webserver to `/docs/` directory.  
 For development install required packages using `yarn install` and start project with `gulp`.  
 
 ## Cheers
