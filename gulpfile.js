@@ -9,7 +9,7 @@ var connect = require('gulp-connect');
 
 var path = {
   source: 'src/',
-  assets: 'app/assets/'
+  assets: 'docs/assets/'
 }
 
 gulp.task('styles', function (done) {
@@ -40,7 +40,7 @@ gulp.task('watch', function (done) {
 
 gulp.task('connect', function(done) {
   connect.server({
-    root: 'app'
+    root: 'docs'
   });
 
   done();
