@@ -1,13 +1,5 @@
 # voobschem.ru
 
-**Contributors:** Anton Lukin  
-**Version:** 2.1.0   
-**License:** MIT License  
-**License URI:** https://github.com/antonlukin/voobschem/blob/master/LICENSE  
-
-
-## Description
-
 voobschem.github.io public repository.   
 See detailed description in Russian below.
 
