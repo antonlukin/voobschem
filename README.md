@@ -1,6 +1,6 @@
-# voobschem.ru
+# voobschem
 
-voobschem.github.io public repository.   
+antonlukin.github.io/voobschem public repository.  
 See detailed description in Russian below.
 
 ## Installation 
